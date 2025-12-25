@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /tr/edoga.jsp
+Disallow: /tr/bakim.jsp
+Disallow: /tr/edoga-bakim.jsp
+
+User-Agent: Googlebot-Mobile 
+Allow: /
+
+User-Agent: Googlebot-Image 
+Allow: /
+
+User-Agent: Mediapartners-Google 
+Allow: /
+
+User-Agent: Adsbot-Google
+Allow: /
+
+User-Agent: msnbot
+Allow: /
+
+User-Agent: msnbot-media
+Allow: /
+
+Sitemap: https://www.sebitvcloud.com/sitemap.xml
