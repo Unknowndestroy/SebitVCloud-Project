@@ -25,3 +25,7 @@ A entire project to research for every details of SebitVCloud, and companies.
 ## #6 Uses: AWS Cloud
 <img width="128" height="256" alt="image" src="https://github.com/user-attachments/assets/05486920-91d9-490b-9a59-06de98f9c8e3" />
 
+## #7 Runs On: Windows Server
+<img width="3840" height="542" alt="image" src="https://github.com/user-attachments/assets/0a88a32a-77c3-4b6f-bf14-f01620c65a26" />
+
+
